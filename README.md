@@ -35,6 +35,9 @@ My goal is to develop practical cybersecurity skills while documenting my learni
 
 `TCP/IP` `DNS` `HTTP` `ICMP` `Wireshark` `tcpdump` `Netcat` `hping3`
 
+**Web Reconnaissance**
+`Gobuster` `cURL` `HTTP` `Sitemap Discovery` `Directory Enumeration` `Source Inspection`
+
 **Scripting & Programming**
 
 `Bash` `Python` `PowerShell`
