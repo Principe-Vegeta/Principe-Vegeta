@@ -1,4 +1,4 @@
-# Hi, I'm Mário Douglas 👋
+# Hi, I'm Mário Douglas 
 
 ### Cybersecurity Student | IT | Hands-on Security Labs
 
@@ -8,7 +8,7 @@ My goal is to develop practical cybersecurity skills while documenting my learni
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## Cybersecurity Focus
 
 * Linux fundamentals
 * Computer networking
@@ -25,7 +25,7 @@ My goal is to develop practical cybersecurity skills while documenting my learni
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Operating Systems**
 
@@ -44,9 +44,9 @@ My goal is to develop practical cybersecurity skills while documenting my learni
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔎 Cybersecurity Portfolio
+### Cybersecurity Portfolio
 
 Hands-on cybersecurity projects covering networking, reconnaissance, scripting, and traffic analysis.
 
@@ -60,7 +60,7 @@ A separate learning journey focused on AWS and data engineering.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm continuously developing my cybersecurity foundations through practical labs and technical exercises, with a focus on:
 
@@ -73,7 +73,7 @@ I'm continuously developing my cybersecurity foundations through practical labs 
 
 ---
 
-## 🧪 My Learning Approach
+## My Learning Approach
 
 I try to turn theoretical concepts into practical work.
 
@@ -83,7 +83,7 @@ My repositories contain selected projects and laboratory exercises that demonstr
 
 ---
 
-## 📈 Goals
+## Goals
 
 * Build a strong foundation in Cybersecurity
 * Develop practical networking and security skills
