@@ -1,4 +1,4 @@
-# Hi, I'm Mário Douglas 👋🏽
+# Hi, I'm Mário Douglas 👋
 
 ### Cybersecurity Student | IT | Hands-on Security Labs
 
